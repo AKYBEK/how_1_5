@@ -8,5 +8,6 @@ class CounterModel {
     }
     fun decrement() {
         --count
+        //
     }
 }
